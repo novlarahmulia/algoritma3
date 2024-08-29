@@ -7,7 +7,7 @@ var_dump($variabel_string);
 var_dump($variabel_integer);
 var_dump($variabel_array);
 
-print_r("<p><strong>by :Novla Rahmulia");
+print_r("<p><strong>by :Novla Rahmuliaa");
 
 ?>
 
