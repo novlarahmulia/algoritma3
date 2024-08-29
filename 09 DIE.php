@@ -8,7 +8,7 @@ if (file_exists('file_important.txt')) {
 //Menambahkan Status HTTP
 if (!user_is_logged_in()) {
     header('HTTP/1.1 403 Forbidden');
-    die("Error: Kamu tidak memiliki akses.");
+    die("Error: Kamu tidak memiliki aksess.");
 }
 //Menggabungkan dengan fungsi exit()
 if ($koneksi_database == false) {
