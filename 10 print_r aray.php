@@ -1,6 +1,6 @@
 <?php
 $array=array(
-'name'=>'novla<br>',
+'name'=>'novlaa<br>',
 'age'=>16,
 '<br>skills'=>array('PHP','JavaScript','HTML')
 );
