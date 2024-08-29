@@ -4,6 +4,6 @@ $array=array(
 'age'=>16,
 '<br>skills'=>array('PHP','JavaScript','HTML')
 );
-
+echo
 print_r($array);
 ?>
