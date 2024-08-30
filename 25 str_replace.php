@@ -1,6 +1,6 @@
 
 <?php
 $text = "Hello World!";
-echo str_replace("World", "PHP", $text); // Outputs: "Hello PHP!"
+echo str_replace("World", "NOVLA", $text); // Outputs: "Hello NOVLA!"
 
 ?>
