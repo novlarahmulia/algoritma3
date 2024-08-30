@@ -1,5 +1,5 @@
 <?php
-$usia = 20;
+$usia = 17;
 
 if ($usia < 13) {
     echo "Kamu masih anak-anak.";
