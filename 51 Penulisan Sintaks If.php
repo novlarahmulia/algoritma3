@@ -1,7 +1,7 @@
 <?
-$umur = 20;
+$umur = 17;
 
-if ($umur >= 17) {
+if ($umur >= 16) {
     echo "Kamu sudah cukup umur.";
 }
 ?>
