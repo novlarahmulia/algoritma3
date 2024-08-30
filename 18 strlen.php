@@ -1,4 +1,4 @@
 <?php
-$text = "Hello World!";
+$text = "Helloo World!";
 echo strlen($text); // Outputs: 12
 ?>
